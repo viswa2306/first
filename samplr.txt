@@ -1,2 +1,2 @@
 create a sample file.
-
+this is merge conflicts
